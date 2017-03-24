@@ -1,5 +1,6 @@
-# TreinamentoAngular2 https://travis-ci.org/marpriori/treinamento-angular2.svg?branch=master
+# TreinamentoAngular2 
 
+[![Build Status](https://travis-ci.org/marpriori/treinamento-angular2.svg?branch=master)](https://travis-ci.org/marpriori/treinamento-angular2)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.4.
 
 ## Development server
