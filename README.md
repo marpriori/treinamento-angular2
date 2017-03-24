@@ -1,4 +1,4 @@
-# TreinamentoAngular2
+# TreinamentoAngular2 https://travis-ci.org/marpriori/treinamento-angular2.svg?branch=master
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.4.
 
