@@ -29,4 +29,4 @@ Before running the tests make sure you are serving the app via `ng serve`.
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ## Publish on Github.Pages
-Install 'npm i -g angular-cli-ghpages' case necessary. To publish execute 'ng build --prod' and after run 'angular-cli-pages' or 'ngh' check about in Npm install of [Angular Cli Ghpages](https://www.npmjs.com/package/angular-cli-ghpages).
+Install `npm i -g angular-cli-ghpages` case necessary. To publish execute `ng build --prod` and after run `angular-cli-pages` or `ngh` check about in Npm install of [Angular Cli Ghpages](https://www.npmjs.com/package/angular-cli-ghpages).
