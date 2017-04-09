@@ -1,4 +1,9 @@
 <p>
-  cursos component!
+    Título: {{Titulo}}
 </p>
 <app-cursos-detalhe></app-cursos-detalhe>
+
+Lista de cursos
+<ul>
+    <li *ngFor="let curso of Cursos">{{curso}}</li>
+</ul>

@@ -8,6 +8,7 @@ import { CursosModule } from './cursos/cursos.module';
 import { AppComponent } from './app.component';
 import { MeuPrimeiroComponent } from './meu-primeiro/meu-primeiro.component';
 import { MeuPrimeiro2Component } from './meu-primeiro2/meu-primeiro2.component';
+
 @NgModule({
   declarations: [
     AppComponent,
